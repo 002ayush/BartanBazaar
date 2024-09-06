@@ -1,0 +1,30 @@
+[
+	{
+		"id": "0.3722505396474973",
+		"title": "Product1",
+		"imageUrl": "https://img.freepik.com/free-photo/sophisticated-kitchen-utensils-ensemble-seamlessly-integrating-utility-elegance-your-culinary-endeavors_157027-2537.jpg?t=st=1725640297~exp=1725643897~hmac=c60d489d8bc15790867b9148b4a40eca21f53fd941af7cbbc56051f1b46ab1ea&w=1380",
+		"description": "This is the most demanding Product used to eat snacks etc.",
+		"price": "24.25"
+	},
+	{
+		"id": "0.9630788366487766",
+		"title": "Product2",
+		"imageUrl": "https://img.freepik.com/free-photo/top-view-table-arrangement-with-empty-dishes-tableware_23-2150310715.jpg?t=st=1725641025~exp=1725644625~hmac=57924094a176da362a3c9d4b39b1cfabebe86390807198833495f2ce9b2c375e&w=1060",
+		"description": "This is Product2 which is the most expensive among all others.",
+		"price": "256.25"
+	},
+	{
+		"id": "0.31276848097542387",
+		"title": "Product3",
+		"imageUrl": "https://img.freepik.com/free-psd/red-handled-frying-pan-against-concrete-isolated-transparent-background_191095-15753.jpg?t=st=1725641086~exp=1725644686~hmac=a857ae1941ea3c22cc48565f1f8af2c727242574aea0ce194a05bea2b0bb94d5&w=740",
+		"description": "This is the Product which is red hot and maximum suppied product.",
+		"price": "562.23"
+	},
+	{
+		"id": "0.0922652516761775",
+		"title": "Product4",
+		"imageUrl": "https://img.freepik.com/premium-photo/kitchen-tools_1236033-34859.jpg?w=740",
+		"description": "This is the product which is accessible in our local stores and yet it is demanding as well.",
+		"price": "103.56"
+	}
+]

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+        <link rel="stylesheet" href="/css/product.css">
+		<link rel="stylesheet" href="/css/main.css" />
+	</head>
+	<body>
+		<header>
+			<nav class="navbar-items">
+				<ul class="navbar-items-list">
+					<li>Home</li>
+					<li>About</li>
+					<li>Contact Us</li>
+				</ul>
+			</nav>
+		</header>
+		<main class="form-items">
+			<form action="/add-product" method="post">
+				<label for="prodid">Product Id</label>
+				<input type="text" name="prodid" id="prodid" />
+				<label for="name">Product name</label>
+				<input type="text" name="name" id="name" />
+				<button type="submit">Submit</button>
+			</form>
+		</main>
+	</body>
+</html>

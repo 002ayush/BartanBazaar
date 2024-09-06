@@ -1,0 +1,12 @@
+<div class="card__actions">
+	<form action="/cart" method="post">
+		<input type="hidden" name="cartId" value="<%=product.id%>">
+		<button class="btn" type="submit">Add to Cart</button>
+	</form>
+	<div>
+		<form action="/products" method="post">
+			<button type="submit" class="btn">Show Details</button>
+			<input type="hidden" name="prod_details" value="<%= product.id %>" />
+		</form>
+	</div>
+</div>
